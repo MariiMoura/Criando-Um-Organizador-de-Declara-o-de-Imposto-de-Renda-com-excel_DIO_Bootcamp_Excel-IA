@@ -67,15 +67,6 @@ Durante o desenvolvimento foram aplicados diversos recursos da ferramenta:
 5. Utilize os campos validados para evitar erros de preenchimento.
 6. Mantenha os dados atualizados durante o ano para facilitar a declaração do Imposto de Renda.
 
-## 📸 Capturas de Tela
-
-### Menu Principal
-
-Adicione aqui uma imagem do menu principal da ferramenta.
-
-```text
-/images/menu-principal.png
-```
 
 ### Cadastro de Informações
 
