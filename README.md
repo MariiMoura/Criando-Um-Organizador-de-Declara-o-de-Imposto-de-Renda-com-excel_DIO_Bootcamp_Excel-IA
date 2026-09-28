@@ -68,18 +68,6 @@ Durante o desenvolvimento foram aplicados diversos recursos da ferramenta:
 6. Mantenha os dados atualizados durante o ano para facilitar a declaração do Imposto de Renda.
 
 
-### Cadastro de Informações
-
-```text
-/images/cadastro-dados.png
-```
-
-### Controle de Rendimentos
-
-```text
-/images/controle-rendimentos.png
-```
-
 ## 💡 Aprendizados
 
 Com este desafio foi possível aplicar conceitos de Excel em um contexto real, desenvolvendo uma ferramenta útil para organização financeira e preparação da declaração do Imposto de Renda. O projeto também reforçou conhecimentos sobre estruturação de planilhas, validação de dados, experiência do usuário e documentação técnica utilizando GitHub.
